@@ -1,4 +1,4 @@
-# The second git lab
+# The second Git lab
 ## First team member: Shelby Engle 1
 ## Second team member: Shelby Engle 2
-Die class project. It simulates a die and includes a driver program.
+### Die Project: simulates the rolling of a die with a specified number of sides.
