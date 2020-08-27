@@ -1,2 +1,2 @@
-# Git Lab #2
-## First team member: Shelby Engle
+# The second Git Lab
+## Second team member: <Enter your name here>
