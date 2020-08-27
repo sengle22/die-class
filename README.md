@@ -1,2 +1,2 @@
-# die-class
-CS 2401, Lab 1
+# Git Lab #2
+## First team member: Shelby Engle
